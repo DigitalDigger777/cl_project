@@ -1,0 +1,49 @@
+/* logo background */
+.sidebar-header {
+  background-color: transparent!important;
+}
+
+/* explorer button */
+.btn-hlor-outline {
+  color: #33cabb;
+  background-color: transparent;
+  border-color: #33cabb;
+}
+.btn-hlor-outline:hover {
+  color: #fff;
+  background-color: #33cabb;
+  border-color: #33cabb;
+}
+.btn-hlor-outline:not([disabled]):not(.disabled).active, .btn-hlor-outline:not([disabled]):not(.disabled):active,
+.show > .btn-hlor-outline.dropdown-toggle {
+  background-color: #12a766;
+  border-color: #12a766;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+/* add button */
+.add-btn {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+/* Text Links */
+.text-hlor-link
+{
+    color: #21564f;
+}
+a.text-hlor:hover,
+a.text-hlor:focus
+{
+    color: #33cabb;
+}
+.text-hlor
+{
+    color: #33cabb;
+}
+
+.h-620px {
+  height: 620px !important;
+}
