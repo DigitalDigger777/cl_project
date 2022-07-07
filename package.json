@@ -19,7 +19,7 @@
     "jquery": "^3.4.1",
     "jsdom": "^15.1.1",
     "jsgrid": "^1.5.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-countdown": "0.0.3",
     "network-list": "^1.1.5",
     "react": "^16.8.6",
